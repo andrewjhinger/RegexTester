@@ -1,7 +1,7 @@
 #RegexTester
 ###Environment:
 
-Windows console application
+Windows form application
 
 ###Concepts used:
 
